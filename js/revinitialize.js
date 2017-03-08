@@ -15,7 +15,7 @@ Reveal.initialize({
   multiplex: {
     // Example values. To generate your own, see the socket.io server instructions.
     secret: null, // Obtained from the socket.io server. Gives this (the master) control of the presentation
-    id: 'cd4c1b33a6688b2c', // Obtained from socket.io server
+    id: '4eb1e6f7809c9dd4', // Obtained from socket.io server
     url: 'https://reveal-js-multiplex-ccjbegmaii.now.sh' // Location of socket.io server
   },
   // More info https://github.com/hakimel/reveal.js#dependencies
